@@ -4,6 +4,8 @@ This repository contains the complete project submission for the **IBM SkillsBui
 
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Analytics](https://img.shields.io/badge/Data_Analytics-pink?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-%234ea94b.svg?style=for-the-badge&logo=data_visualization&logoColor=white)
 ---
 
 ## 👥 Student Details
