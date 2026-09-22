@@ -2,10 +2,11 @@
 
 This repository contains the complete project submission for the **IBM SkillsBuild Data Analytics with AI Academic Internship Program**. The system uses a machine learning regression pipeline to predict regional housing values based on historical U.S. Census indicators.
 
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3.14.7-blue?style=for-the-badge&logo=Python)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Analytics](https://img.shields.io/badge/Data_Analytics-pink?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-%234ea94b.svg?style=for-the-badge&logo=data_visualization&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-red?style=for-the-badge)
 ---
 
 ## 👥 Student Details
